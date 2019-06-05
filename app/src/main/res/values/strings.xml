@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Beatbox</string>
+    <string name="login_anonymously">anonymous</string>
+    <string name="login_with_password">Login with Password</string>
+    <string name="login_with_twitter">Twitter</string>
+    <string name="login_with_google">Google sign in</string>
+    <string name="cont">Continue</string>
+    <string name="enter_your_mobile_number">enter your mobile number</string>
+    <string name="may_i_ask_your_phone_number">may i ask your phone number</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_verification_code">Enter Verification code</string>
+    <string name="wait_for_the_code_we_sent_you">Wait for the code we sent you</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="one">Profile</string>
+    <string name="two">Search</string>
+    <string name="three">Search</string>
+    <string name="four">Logout</string>
+    <string name="google_maps_key">AIzaSyBkJxbO0zcmOZBYecYM1IyrjtfnpAfRlRM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HION</string>
+    <string name="nav_header_subtitle">Beatbox_hion@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_nav2">Beatbox Choice</string>
+    <string name="title_activity_nav_tab">Beatbox</string>
+    <string name="about">"              "Beat box is an app to increase the widespread of the art! Its established and owned by HION JOBS,BENGALURU.</string>
+    <string name="Fav">Added To Favourites</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="types">Types</string>
+
+
+    <string name="Viral_videos">Viral videos</string>
+    <string name="Learning_videos">Learning videos</string>
+
+    <string name="Solo_Beatbox">Solo Beatbox</string>
+    <string name="Tag_Beatbox">Tag Beatbox</string>
+    <string name="seven_to_smoke">7 to smoke Beatbox</string>
+    <string name="Loopstation_Beatbox">Loopstation Beatbox</string>
+    <string name="Crew_Beatbox"> Crew Beatbox</string>
+    <string name="Jamming_beatbox">Beatbox Jams</string>
+    <string name="Studio_session">Studio session Beatbox</string>
+    <string name="Beats_club">Beats club</string>
+    <string name="All">All</string>
+    <string name="Logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="new_videos">NEW VIDEOS!</string>
+    <string name="ultimate_beatboxing_app">Ultimate Beatboxing App</string>
+    <string name="technical_issues">Technical issues?</string>
+
+</resources>
